@@ -10,6 +10,7 @@
 
 ---
 
+
 ## Objetivo
 
 El objetivo de este taller e que los estudiantes implementen la lógica de la calculadora desarrolada en el laboratorio 1, que cumpla los siguientes requisitos:

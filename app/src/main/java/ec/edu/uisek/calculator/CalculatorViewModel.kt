@@ -10,6 +10,7 @@ data class CalculatorState(
 
 )
 
+
 sealed class CalculatorEvent {
     data class Number(val number: String) : CalculatorEvent()
     data class Operator(val operator: String) : CalculatorEvent()
